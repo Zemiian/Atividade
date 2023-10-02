@@ -12,11 +12,11 @@ scanf("%i" ,&idade);
 if ((idade < 18) || (idade > 65))
 {
 
-printf("Você não é obrigado a votar");
+printf("VocÃª nÃ£o Ã© obrigado a votar");
 }
 else
 {
-printf("Você é obrigado a votar");
+printf("VocÃª Ã© obrigado a votar");
 
 
 
